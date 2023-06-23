@@ -1,4 +1,4 @@
-{
+8{
   "log": {
     "access": "",
     "error": "",
@@ -7,7 +7,7 @@
   "inbounds": [
     {
       "tag": "socks",
-      "port": 10870,
+      "port": 10880,
       "listen": "0.0.0.0",
       "protocol": "socks",
       "sniffing": {
@@ -26,7 +26,7 @@
     },
     {
       "tag": "http",
-      "port": 10871,
+      "port": 10881,
       "listen": "0.0.0.0",
       "protocol": "http",
       "sniffing": {
