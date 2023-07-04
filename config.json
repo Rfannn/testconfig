@@ -51,11 +51,11 @@
       "settings": {
         "servers": [
           {
-            "address": "ak1796.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou",
-            "method": "aes-256-gcm",
+            "address": "ak1797.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou",
+            "method": "chacha20-ietf-poly1305",
             "ota": false,
-            "password": "Y6R9pAtvxxzmGC",
-            "port": 3306,
+            "password": "G!yBwPWH3Vao",
+            "port": 805,
             "level": 1
           }
         ]
